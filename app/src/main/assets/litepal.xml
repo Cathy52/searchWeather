@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="search_weather"/>
+    <version value="1" />
+    <list>
+        <mapping class="com.cathy.searchweather.db.City"/>
+        <mapping class="com.cathy.searchweather.db.County"/>
+        <mapping class="com.cathy.searchweather.db.Province"/>
+    </list>
+</litepal>
